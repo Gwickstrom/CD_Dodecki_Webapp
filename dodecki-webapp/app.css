@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.wrapper{
+  width: 970px;
+  margin: auto;
+  display: inline-block;
+}
+.list {
+  background-color: red;
+  display: inline-block;
+}
+
+.media-object {
+  display: inline-block;
+  color: blue;
+}
+.media-object-section {
+  margin-left: 10px;
+  display: inline-block;
+  width: 310px;
+  align-items: center;
+  text-align: center;
+}
+
+
+/* for the inline list menu*/
+#list_menu{
+    background: #008ae6;
+    width: 90%;
+    margin: 0 auto;
+    height: 55px;
+    position: absolute;
+    top: 150px;
+    left: 35px;
+    right: 0px;
+    bottom: 0px;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+}
+
+#list_menu li{
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 14px;
+    margin-right: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+    color: #e6e6e6;
+    font-size: 21px;
+
+}
+
+
+
+
+
+
+/* menu items  */
+#bowl{
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+#sandwich {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+#musubi{
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+#lunch {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+#saimin {
+  text-align: center;
+  border-bottom: 2px solid black;
+}
+#sides{
+  text-align: center;
+  border-bottom: 2px solid black;
+
+}
+.sides{
+  width: 450px;
+  display: inline-block;
+  text-align: center;
+}
+.soda {
+  text-align: center;
+  align-items: center;
+  display: inline-block;
+    width: 450px;
+}
+#soda{
+  text-align: center;
+  border-bottom: 2px solid black;
+
+}
+
+.media-object img{
+  display: inline-block;
+}
+table {
+  display: inline-block;
+}
+h5 {
+  display: inline-block;
+}
+p{
+  display: inline-block;
+}
